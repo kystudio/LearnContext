@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LearnContext.iml" filepath="$PROJECT_DIR$/LearnContext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imageview/imageview.iml" filepath="$PROJECT_DIR$/imageview/imageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shareapplication/shareapplication.iml" filepath="$PROJECT_DIR$/shareapplication/shareapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textview/textview.iml" filepath="$PROJECT_DIR$/textview/textview.iml" />
+    </modules>
+  </component>
+</project>
